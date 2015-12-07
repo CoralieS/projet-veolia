@@ -36,7 +36,7 @@
           <a href="#" class="image featured"><img src="images/captage.jpeg" alt="" /></a>
 
           <header>
-            <h3><a href="#">Captage</a></h3>
+            <h3>Captage</h3>
           </header>
 
           <p>
@@ -50,7 +50,7 @@
           <a href="#" class="image featured"><img src="images/traitement.jpeg" alt="" /></a>
           
           <header>
-            <h3><a href="#">Traitement</a></h3>
+            <h3>Traitement</h3>
           </header>
           
           <p>
@@ -64,7 +64,7 @@
           <a href="#" class="image featured"><img src="images/chateaudeau.jpeg" alt="" /></a>
 
           <header>
-           <h3><a href="#">Stockage</a></h3>
+           <h3>Stockage</h3>
           </header>
 
           <p>
